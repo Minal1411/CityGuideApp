@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3980679503",
+    "firebase_url": "https://city-guide-app-5674a.firebaseio.com",
+    "project_id": "city-guide-app-5674a",
+    "storage_bucket": "city-guide-app-5674a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3980679503:android:ad1ce3d5b099ba887f4d3a",
+        "android_client_info": {
+          "package_name": "com.example.cityguideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3980679503-l296s8j1hf7aei1rd0c5k3hj1lcp7jq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cityguideapp",
+            "certificate_hash": "639a6afad1d09f270e888700a68c0bfe9800a647"
+          }
+        },
+        {
+          "client_id": "3980679503-ppag7lubio7ac0ophbcafesscbdl0pf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCJ5NF1CT3wTFVYTmDV-Cv_qkh8eODvPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3980679503-ppag7lubio7ac0ophbcafesscbdl0pf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
